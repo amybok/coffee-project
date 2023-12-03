@@ -1,0 +1,31 @@
+﻿id,name,region,country,varietal,flavour notes,roast,roaster,process,label,like?
+1,El mirador,South America,Colombia,Red Bourbon,"strawberry, blood orage, grapefruit, blackcurrant",filter,path,washed,fragrance,yes
+2,Zukuku bora,Africa,Uganda,SL14-28,"cotton candy, nectarine, red grape, rockmelon",filter,path,natural,fragrance,yes
+3,Green Yunlan,Asia,China,SL34,"grilled peach, green apple, sencha",filter,calere,washed,tart,no
+4,Pink Yunlan,Asia,China,Purple Typica,"rockmelon, jujube, rapadura sugar",filter,calere,washed,herbal,no
+5,Pop soda,Asia,China,Red Bourbon,"red currant, pomegranate, cherry jam, melon, honey",filter,four kilo fish,natural,funky,no
+6,Gondo,Africa,Kenya,"SL28, K7, Ruiru, Batian","floral, perserved plum, pomegranate",filter,manta ray,washed,dull,no
+7,Migu estate,Asia,China,Catimor,"jackfruit, rum, chocolate, banoffee",espresso,calere,natural,funky,yes
+8,Marimbus,South America,Brazil,Catuai,"hazelnut, apricot",espresso,market lane,natural,mellow,yes
+9,One light,Asia,China,Catimor,"peach, lychee, rose",filter,calere,anaerobic washed,fragrance,yes
+10,Finca Gosen,South America,Honduras,Parainema,"blueberry, blackberry, red wine, dark chocolate",espresso,ona,natural,funky,no
+11,Rugali,Africa,Rwanda,Red Bourbon,"red apple, red currant, plum, cinnamon sugar",filter,ona,honey,dull,no
+12,Kirinyaga,Africa,Kenya,"SL28, SL34, Ruiru, Batian","marmalade, grapefruit, dried mango, caramel",filter,weekenders,washed,fragrance,yes
+13,Las flores,South America,Colombia,Caturra,"strawberry, grape, rose, cherry, dark chocolate",filter,code black,natural,fragrance,yes
+14,Frinsa,Asia,Indonesia,Sigararutang,"apple, peach, cherry, bergamot, caramel",filter,kurasu,washed,bright,yes
+15,Cau Dat,Asia,Vietnam,Catimor,"butter, dark chocolate",espresso,VCR,washed,dull,no
+16,Vinhal Peaberry,South America,Brazil,Catucai,"stone fruit, raspberry, grape, almond",filter,code black,natural,mellow,yes
+17,Rafael Vinhal,South America,Brazil,Catuai,"purple grape, star fruit, honey",filter,five senses,natural,mellow,yes
+18,Jabanto,Africa,Ethiopia,"Kurume, Wolisho","red grape, guava, fruit ferment",filter,five senses,natural,sweet,yes
+19,Aricha,Africa,Ethiopia,Mixed heirlooms,"white tea, blueberry, jasmine, icing sugar, peach, lychee cup, coffee blossom",filter,core,washed,mellow,yes
+20,Yara estate,Africa,Kenya,"SL28, SL34, Ruiru","green apple, muscat, blackberry, orange zest, cranberry, grape hichew, angustura bitter",filter,core,washed,bright,yes
+21,Asman Arianto,Asia,Indonesia,"Abyssinia, Ateng, Gayo 1, Gayo 2, Tim tim","kiwi fruit, persimmon, blackberry, jasmine, honeycomb, milk chocolate, buttery toffee",filter,core,washed,mellow,yes
+22,Ouro verde 8,South America,Brazil,Catuai,"red grape, tangerine, elderflower cordial",filter,seven seeds,natural,bright,yes
+23,La Bastilla,Africa,Nicaragua,Geisha,"raisin, lychee, vanilla, hazelnut",filter,ini,natural,herbal,no
+24,Finagro,Africa,Tazania,Geisha,"jasmine, elderflower, green apple, watermelon",filter,ini,washed,bright,yes
+25,El Diviso,South America,Colombia,Geisha,"orange, chamomile, cherry, cane sugar",filter,ini,honey,mellow,yes
+26,Migu estate,Asia,China,Catimor,"prune, miso chocolate cookie, young merlot",filter,calere,natural,funky,yes
+27,Aricha,Africa,Ethiopia,Heirloom,"mandarin, peach, panela, honeysuckle",filter,ona,washed,bright,yes
+28,La Montanna,South America,Peru,"Caturra, Typica, Catimor","apple, floral, toffee",filter,criteria,washed,sweet,yes
+29,Finca Beti,South America,Honduras,Geisha,"red apple, black tea, sweet mandarin",filter,wide open road,washed,sweet,yes
+30,Shale,Africa,Ethiopia,Heirloom,"floral, sweet biscuit, stone fruit",filter,everyday,washed,sweet,yes
